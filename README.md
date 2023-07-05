@@ -7,4 +7,4 @@
 ## 💻시스템 환경
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-00A98F?style=for-the-badge&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/seaborn-FF6550?style=for-the-badge&logo=seaborn&logoColor=white">
 ## 📊데이터 수집 계획 및 보고서
-
+https://github.com/githede/analysis/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%86%A1%ED%95%98%EC%9D%80.pdf
